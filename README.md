@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashweb101
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...javascript
-- 💞️ I’m looking to collaborate on ...projects regarding web development
+- 👀 I’m interested in ...Data Analysis
+- 🌱 I’m currently learning ...Pyhton and data science
+- 💞️ I’m looking to collaborate on ...projects regarding data analysis / python development
 - 📫 How to reach me ...my mail:ankursinghtg2003@gmail.com
 
 <!---
